@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnY6vBBVRvzWMphDwqqdEnRuOn0B3gcQgQ6unVyXQG45jRKZjKAuT2oodLLS/PWu5IZ+ZrXP/ec3JS+6M7qZzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\calismalar\\C#(.NET)\\MyApi\\MyApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
